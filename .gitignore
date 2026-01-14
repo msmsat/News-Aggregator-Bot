@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.env
+news_bot.db
+*.db
+.idea/
+.vscode/
