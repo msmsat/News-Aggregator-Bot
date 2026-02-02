@@ -17,6 +17,7 @@ from dotenv import load_dotenv
 class Form(StatesGroup): waiting_for_keyword = State()
 
 # --------- Настройки (подставьте ваш токен) ---------
+load_dotenv()
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 if not BOT_TOKEN: exit("Error: BOT_TOKEN not found in environment variables!")
 
