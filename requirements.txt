@@ -1,0 +1,4 @@
+aiogram
+aiosqlite
+feedparser
+python-dotenv
