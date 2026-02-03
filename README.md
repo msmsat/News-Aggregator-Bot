@@ -41,5 +41,5 @@
 
 ### 1. Клонирование
 ```bash
-git clone [https://github.com/msmat/News-Aggregator-Bot.git](https://github.com/msmat/News-Aggregator-Bot.git)
+git clone [https://github.com/msmsat/News-Aggregator-Bot.git](https://github.com/msmsat/News-Aggregator-Bot.git)
 cd News-Aggregator-Bot
